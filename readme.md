@@ -3,4 +3,3 @@
 ````bash
 .venv/bin/python projects/telusko/manage.py runserver  
 ````
-
