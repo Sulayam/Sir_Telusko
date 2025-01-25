@@ -3,3 +3,4 @@
 ````bash
 .venv/bin/python telusko/manage.py runserver  
 ````
+![alt text](image.png)
