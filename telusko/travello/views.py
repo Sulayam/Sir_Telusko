@@ -38,7 +38,4 @@ def index(request):
 
     dests = [dest1, dest2, dest3]
 
-    return render(request, 'index.html', {'dests': dests})
-
-def contact(request):
-    return render(request, 'contact.html')  
+    return render(request, 'index.html', {'dests': dests}) 
